@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/Parcial2Naipeapi/apis/Parcial2Naipe",
+      "type": "apis.azure"
+    }
+  }
+}
